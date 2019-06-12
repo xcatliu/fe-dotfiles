@@ -1,0 +1,12 @@
+## OS
+.DS_Store
+*.log
+
+## Local
+node_modules
+# package-lock.json
+# yarn.lock
+
+## Built-files
+# dist
+# logs
